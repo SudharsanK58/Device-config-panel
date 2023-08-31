@@ -1,7 +1,7 @@
 {
   "name": "ble-card-planel",
   "version": "0.1.0",
-  "homepage": "https://sudharsank58.github.io/Device-config-panel/",
+  "homepage": "http://sudharsank58.github.io/Device-config-panel/",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.11.1",
