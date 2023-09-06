@@ -1,7 +1,6 @@
 {
-  "name": "ble-card-planel",
-  "version": "0.1.0",
-  "homepage": "http://sudharsank58.github.io/Device-config-panel/",
+  "name": "validator-planel",
+  "version": "0.2.1",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.11.1",

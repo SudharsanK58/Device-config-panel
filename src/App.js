@@ -173,7 +173,7 @@ function App() {
   return (
     <div className="App">
       <Typography variant="h4" gutterBottom align="center" marginTop= "2%">
-        Device config panel
+        validator config panel
       </Typography>
       <Stack direction="row" spacing={2} alignItems="center" justifyContent="center" marginTop="2%">
         <FormControl variant="outlined" size="small">
@@ -263,8 +263,9 @@ function App() {
                           }}                          
                         >
                           <MenuItem value={-4}>Ticket validation</MenuItem>
-                          <MenuItem value={4}>Long range validation</MenuItem>
+                          <MenuItem value={4}>Open range validation</MenuItem>
                           <MenuItem value={0}>Mid range validation</MenuItem>
+                          <MenuItem value={-8}>Close range validation</MenuItem>
                         </Select>
                       </FormControl>
                     </Box>
